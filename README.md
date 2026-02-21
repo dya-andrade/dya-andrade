@@ -2,7 +2,7 @@
 
 ## Back-end | Software Developer ❤️
 
-- 💼 Desenvolvedora Java.
+- 💼 Desenvolvedora Backend com foco em Java e Kotlin.
 - 🌱 Formada na Universidade Paulista - UNIP no curso Ciência da Computação em 2022.
 
 - 📫 Como entrar em contato comigo: dyane.aaraujo@gmail.com.
@@ -11,27 +11,27 @@
  
 ## 👨‍💻 Skills Hard: 
  
-* Java 11+ e Orientação a Objetos.
-* Ecossistema Spring Framework (MVC, Boot, Data, Cloud, Security e Webflux) e hibernate/JPA
+* Java 11+, Kotlin e Orientação a Objetos.
+* Ecossistema Spring Framework (MVC, Boot, Data, Cloud, Security e Webflux), Ktor e hibernate/JPA
 * API RESTful, Swagger, JWT e Microservices
 * Reactive Programming
 * RabbitMQ e Kafka
-* MySQL, PostgreSQL e Flyway
+* MySQL, PostgreSQL, MongoDB e Flyway
 * JUnit 5, Mockito e Testes de Integração (Testcontainers)
 * Design Patterns, SOLID e Clean Architecture
 * Primefaces (JSF)
 * Docker, Tomcat, Netty e Maven 
 * Git, GitHub e Git Actions
 * Metodologias Ágeis (Kanban e Jira) e Sonar
-* Kotlin / Golang (andamento)
+* Golang (andamento)
 * Kubernetes / AWS (andamento)
 
-![](https://github.com/MulherMarav/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/dya-andrade/snk/raw/output/github-contribution-grid-snake.svg)
 
 <div>
-<a href="https://github.com/MulherMarav">
-<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MulherMarav&layout=compact&langs_count=7&theme=dracula"/>
-<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MulherMarav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/dya-andrade">
+<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dya-andrade&layout=compact&langs_count=7&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dya-andrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -65,5 +65,5 @@
     
 
 ## Likendin:
-<a href="https://www.linkedin.com/in/dyane-andrade-ara%C3%BAjo-823263143" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/dyane-andrade-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
