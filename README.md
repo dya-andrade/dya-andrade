@@ -6,8 +6,6 @@
 - 🌱 Formada na Universidade Paulista - UNIP no curso Ciência da Computação em 2022.
 
 - 📫 Como entrar em contato comigo: dyane.aaraujo@gmail.com.
-- 📌 Perfil antigo do Github para estudos acadêmicos: https://github.com/DyaneAndrade.
-
  
 ## 👨‍💻 Skills Hard: 
  
