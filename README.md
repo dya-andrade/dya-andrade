@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F78EE0&width=435&height=100&lines=Hi%2C+welcome!;My+name's+Dyane.;I'm+25+years+old.;I'm+a+developer+Java." alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F78EE0&width=435&height=100&lines=Hi%2C+welcome!;My+name's+Dyane.;I'm+28+years+old.;I'm+a+developer+Java." alt="Typing SVG" /></a>
 
 ## Back-end | Software Developer ❤️
 
